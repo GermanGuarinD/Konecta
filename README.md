@@ -14,3 +14,5 @@ Añadir el Jar jcalendar-1.4.jar utilizado para deplegar calendario y el mysql-c
   SELECT * FROM ventas WHERE id_producto IN (SELECT MAX(id_producto) FROM ventas
   
 ### Notas
+
+Traté de realizar al 100% la prueba pero por temas de tiempo no logré realizarla en su totalidad.
